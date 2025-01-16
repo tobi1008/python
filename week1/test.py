@@ -1,2 +1,2 @@
 name = input( 'Nhập họ tên: ')
-print( 'Xin chào', name)%
+print( 'Xin chào', name)
